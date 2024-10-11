@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/zkuu1/portofolio/static/css/main.7bb7a15b.css",
+    "main.js": "/zkuu1/portofolio/static/js/main.01f33be1.js",
+    "static/js/453.6a54098e.chunk.js": "/zkuu1/portofolio/static/js/453.6a54098e.chunk.js",
+    "static/media/tamao.png": "/zkuu1/portofolio/static/media/tamao.7b89f77ee8669e92817c.png",
+    "static/media/akane.png": "/zkuu1/portofolio/static/media/akane.b86d23a39d985097ead9.png",
+    "static/media/tenki.png": "/zkuu1/portofolio/static/media/tenki.ee48ca14449f091dcd48.png",
+    "static/media/header.jpg": "/zkuu1/portofolio/static/media/header.6f68ab19d1249627a81a.jpg",
+    "static/media/majt.png": "/zkuu1/portofolio/static/media/majt.ca90aadaf983f0068e34.png",
+    "static/media/webpoke.png": "/zkuu1/portofolio/static/media/webpoke.64824a83180bd2b7b901.png",
+    "static/media/nijika.jpg": "/zkuu1/portofolio/static/media/nijika.0046d5428c7900953e22.jpg",
+    "static/media/profile.jpg": "/zkuu1/portofolio/static/media/profile.b53d12ccd7f83ebd5a79.jpg",
+    "static/media/logo.svg": "/zkuu1/portofolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/zkuu1/portofolio/index.html",
+    "main.7bb7a15b.css.map": "/zkuu1/portofolio/static/css/main.7bb7a15b.css.map",
+    "main.01f33be1.js.map": "/zkuu1/portofolio/static/js/main.01f33be1.js.map",
+    "453.6a54098e.chunk.js.map": "/zkuu1/portofolio/static/js/453.6a54098e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7bb7a15b.css",
+    "static/js/main.01f33be1.js"
+  ]
+}
